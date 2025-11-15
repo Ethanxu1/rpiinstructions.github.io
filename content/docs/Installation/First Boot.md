@@ -31,13 +31,13 @@ Note: These values are widely documented so we will change them later
 {{< /hint >}}
 3. Log into your router by accessing your Raspberry PI IP address (`http://10.3.141.1`) through the web browser.  
 4. In the next window put in the configured username and password from step 18 into your RaspAP administrator login
-![](/screenshots/Rasp-AP-Login.png)
+![](../../../screenshots/Rasp-AP-Login.png)
 5. When you log into your router, you should see the status of your router. 
-![](/screenshots/Rasp-AP-Home.png)
+![](../../../screenshots/Rasp-AP-Home.png)
 {{< hint danger >}}
 <strong>Warning:</strong> Do not be tempted to switch to 5G unless you have the nessesary hardware attachments. Doing so will cause it to fail and you will need command line intervention if you don't want to reinstall. Even the Raspberry Pi 5 <strong>DOES NOT</strong> have 5G broadcasting capabilities
 {{< /hint >}}
 6. Make sure to change the necessary parameters like your Pre-shared key (PSK) by clicking the “Hotspot” tab on the left, and then go to the “Security” section.
-![](/screenshots/Rasp-AP-Change-PW.png)
+![](../../../screenshots/Rasp-AP-Change-PW.png)
 7. You have now created your own router, try it out, test the speeds, and enjoy.
 
