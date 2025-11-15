@@ -5,7 +5,7 @@ weight: 3
 # Installing the Operating System and Rasp AP
 ---
 1. Download the correct operating system to be used for this process by navigating to the [Quick Start](https://raspap.com/quick-start/) subsection of the RaspAP website. Click on the “custom OS image” link.
-![](/screenshots/RaspAP-Website.png)
+![RaspAP Website](../../../screenshots/RaspAP-Website.png)
 2. Download the following operating system file “raspap-trixie-arm64-lite-3.4.7.img.zip” from the [GitHub](https://github.com/RaspAP/raspap-webgui/releases/tag/3.4.7) page. You will need this later.
 ![](/screenshots/RaspAP-Github.png)
 3. Download the Raspberry Pi Imager from the [Software](https://www.raspberrypi.com/software/) subsection of the Raspberry Pi official site.
