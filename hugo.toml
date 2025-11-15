@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://RPI-Router-Instructions.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'RPI Router Instructions'
 theme = 'hugo-book'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

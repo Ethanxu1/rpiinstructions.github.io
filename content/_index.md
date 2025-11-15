@@ -1,5 +1,3 @@
 ---
-title: RPI Instructions
+title: Why Raspberry Pi Router?
 ---
-
-Some instructions
