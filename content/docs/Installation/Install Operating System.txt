@@ -1,6 +1,6 @@
 ---
 title: Install Operating System and Rasp AP
-weight: 3
+weight: 15
 ---
 # Installing the Operating System and Rasp AP
 ---

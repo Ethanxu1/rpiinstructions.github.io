@@ -14,9 +14,9 @@ Prices are approximate and will vary by store and region, but they give a rough 
 
 These are the most beginner-friendly options.
 
-![Raspberry Pi](../../../pictures/Raspberry-Pi.png)
-
 ### Raspberry Pi Zero / Zero 2 W
+
+![Raspberry Pi Zero 2 W](../../../screenshots/rpizero2w.png)
 
 - **Raspberry Pi Zero or Zero 2 W** (Zero 2 W recommended for stability)
   - Only one built-in network interface (Wi-Fi).
@@ -26,6 +26,8 @@ These are the most beginner-friendly options.
 This setup is compact and great for travel, but slightly more fragile for beginners because of the extra adapters.
 
 ### Raspberry Pi 3B or Newer (3B+, 4, 5)
+
+![Raspberry Pi 3B+](../../../screenshots/rpi3bplus.png)
 
 - These models have **built-in Wi-Fi and an Ethernet port**, so **no additional network adapters** are needed.
 - Plug Ethernet into the Pi for upstream internet and use Wi-Fi as your hotspot.
