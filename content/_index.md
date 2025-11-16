@@ -2,7 +2,7 @@
 title: Why Raspberry Pi Router?
 ---
 
-# Why Raspberry PI Router?
+# Why Raspberry Pi Router?
 This is an instruction guide to help people who want to get into Raspberry PIs but are looking for a simple place to start and explore its potential. This set of instructions is designed to be very **beginner friendly**. Minimal knowledge about linux and networking is nessesary to follow along. 
 
 Making your own raspberry pi offers many advantages including:
