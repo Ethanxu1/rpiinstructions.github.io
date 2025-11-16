@@ -65,7 +65,7 @@ Now we’ll use **Raspberry Pi Imager** to write the RaspAP image to the microSD
 
 
 1. Download the **Raspberry Pi Imager** from the [Software](https://www.raspberrypi.com/software/) subsection of the Raspberry Pi official site.
-![](../../../screenshots/Raspberry-Pi-Imager-Download.png)
+![Raspberry-Pi-Imager-Download](../../../screenshots/Raspberry-Pi-Imager-Download.png)
 
 2. Once you have downloaded the Raspberry Pi Imager, make sure to take note of where the location of the download is in your files, this imager will be used to configure your raspberry pi.
    ![rpi-imager-1.9.6.dmg](../../../screenshots/Downloaded-Imager.png)
