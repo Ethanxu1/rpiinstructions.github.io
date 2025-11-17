@@ -8,7 +8,7 @@ This is an instruction guide to help people who want to get into Raspberry PIs b
 Making your own raspberry pi offers many advantages including:
 ## Customization and Control. 
 - Full control over what kind of router that you would like to have. 
-- Firewall rules, VPNs, DNS settings, and even bandwidth management (as long as it goes by certain rules set up by the state, country, or government.
+- Firewall rules, VPNs, DNS settings, and even bandwidth management as long as it goes by certain rules set up by the state, country, or government.
 ## Cost-Effective Solution.
 - Buying a router that is designated for small network homes would be great to stay away from big Wi-Fi companies and having to spend over $100 a month to have a good internet connection.
 ## Enhanced Privacy and Security.
