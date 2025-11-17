@@ -5,7 +5,7 @@ title: ZimmaBoard
 # ZimmaBoard
 ---
 - A [ZimaBoard](https://www.zimaspace.com/products/single-board-server) is a fanless, x86-based SBC designed for DIYers and developers to build custom servers, media centers, and other projects.
-- Price
+- **Price**
     - $120 - $200
 - **Pros**: 
     - Often come with multiple Ethernet ports.

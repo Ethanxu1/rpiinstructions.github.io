@@ -9,7 +9,7 @@ The main guide uses the **prebuilt RaspAP OS image** so beginners don’t have t
 
 If you’re comfortable with the command line or want more control, you can:
 
-- start from a **standard Raspberry Pi OS Lite** image,
+- start from a **standard Raspberry Pi OS** image,
 - then install **RaspAP manually** with their installer,
 - and layer on advanced features like ad-blocking, VPN, and more.
 

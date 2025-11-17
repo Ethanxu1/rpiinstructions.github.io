@@ -1,6 +1,6 @@
 baseURL = 'https://RPI-Router-Instructions.github.io/'
 languageCode = 'en-us'
-title = 'RPI Router Instructions'
+title = 'RPi Router Instructions'
 theme = 'hugo-book'
 
 [params]
