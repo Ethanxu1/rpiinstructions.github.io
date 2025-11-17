@@ -3,6 +3,16 @@ languageCode = 'en-us'
 title = 'RPI Router Instructions'
 theme = 'hugo-book'
 
+[params]
+authors = "Ethan Xu, Siddarth Shinde, Caleb Locklear"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup.goldmark.extensions]
+admonition = true

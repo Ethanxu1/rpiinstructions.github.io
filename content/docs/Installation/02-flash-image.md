@@ -73,14 +73,14 @@ Now we’ll use **Raspberry Pi Imager** to write the RaspAP image to the microSD
 3. Run the imager, and select your Raspberry Pi Device, Operating System, and Storage.
 ![](../../../screenshots/Raspberry-Pi-Imager-1.png)
 
-4. When you select **CHOOSE DEVICE** under the Raspberry Pi Device prompt, there should be a list of various Raspberry Pi devices to pop up. Select the device that you are using currently.
+4. When you select <span style="color: blue; font-weight: bold;"> CHOOSE DEVICE </span> under the Raspberry Pi Device prompt, there should be a list of various Raspberry Pi devices to pop up. Select the device that you are using currently.
 
-5. When you select **CHOOSE OS** under the Operating System prompt, there should also be a list of various OS systems. In this case you want to select “Use custom”.
+5. When you select <span style="color: green; font-weight: bold;"> CHOOSE OS </span> under the Operating System prompt, there should also be a list of various OS systems. In this case you want to select “Use custom”.
 ![](../../../screenshots/Raspberry-Pi-Imager-2.png)
 
 6. Once you have selected this make sure to choose the image file downloaded during a previous [step.]({{< relref "#2-download-the-raspap-prebuilt-image" >}})
 
-7. When you select “CHOOSE STORAGE” under the Storage prompt, select the formated Micro SD Card. If you are using multiple SD cards make sure to choose the one that is formatted correctly.
+7. When you select <span style="color: orange; font-weight: bold;"> CHOOSE STORAGE </span> under the Storage prompt, select the formated Micro SD Card. If you are using multiple SD cards make sure to choose the one that is formatted correctly.
 ![](../../../screenshots/Raspberry-Pi-Imager-3.png)
 
 7. When you have chosen all of your components that you are using, click **Next → Edit settings**:
@@ -91,9 +91,8 @@ Now we’ll use **Raspberry Pi Imager** to write the RaspAP image to the microSD
    - Set **time zone** and **keyboard layout**.
    ![](../../../screenshots/Raspberry-Pi-Imager-5.png)
 
-{{< hint info >}}
-Step 6 is optional, recommended for future troubleshooting.
-{{< /hint >}}
+> [!INFO]
+> Step 6 is optional, recommended for future troubleshooting.
 
 6. Open the **Services** tab:
    - Enable **SSH**.

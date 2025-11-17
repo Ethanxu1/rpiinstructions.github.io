@@ -75,3 +75,6 @@ After setup, RaspAP creates a default Wi-Fi network and web admin login. By defa
    If this works, you’re now inside the RaspAP web interface and ready to customize your router.
 
    ![RaspAP home page in browser](../../../screenshots/Rasp-AP-Home.png "RaspAP login screen (placeholder)")
+
+> [!DANGER]
+> **Warning:** do not turn on 5G unless you have the required hardware. Doing so will cause the PI to disconnect and will require commandline intervention or reinstallation. No Raspberry Pi model has built-in 5G broadcasting capabilities.

@@ -35,9 +35,8 @@ This setup is compact and great for travel, but slightly more fragile for beginn
 
 **Recommended for most beginners** because the wiring and configuration are much simpler.
 
-{{< hint info >}}
-If you have a choice, start with a <strong>Pi 3B or newer</strong> for simpler wiring and easier troubleshooting.
-{{< /hint >}}
+> [!INFO]
+> If you have a choice, start with a <strong>Pi 3B or newer</strong> for simpler wiring and easier troubleshooting.
 
 ---
 
@@ -65,9 +64,8 @@ If you have a choice, start with a <strong>Pi 3B or newer</strong> for simpler w
 - Larger or faster cards make updates and logging smoother, but any decent 16 GB+ card works.
 - **Approx. price:** **$5+** depending on size and speed.
 
-{{< hint danger >}}
-Warning: Please make sure <strong>nothing important is on the selected SD card</strong>. Everything will be permanently deleted when you flash the image.
-{{< /hint >}}
+> [!IMPORTANT]
+> Warning: Please make sure <strong>nothing important is on the selected SD card</strong>. Everything will be permanently deleted when you flash the image.
 
 ---
 
