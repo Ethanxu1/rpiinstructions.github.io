@@ -16,7 +16,7 @@ This is important because the defaults are public and not safe to leave in place
 
 ## 1. Change the Admin Password
 
-1. In the left sidebar, find the **Authentication** → **Basic** section (the exact label can vary slightly by version).
+1. In the left sidebar, find the **Hotspot** → **Security** section (the exact label can vary slightly by version).
 2. Change the password for the `admin` user to something **strong and unique**.
 3. Save your changes.
 
