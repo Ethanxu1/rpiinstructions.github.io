@@ -26,10 +26,10 @@ This is the part where you should **double-check drive selection** so you don’
 
 {{< tabs >}}
 {{% tab "macOS / Windows" %}}
-<a href="https://www.sdcard.org/downloads/formatter/" target="_blank" rel="noopener">SD Card Formatter</a>
+[SD Card Formatter](https://www.sdcard.org/downloads/formatter/)
 {{% /tab %}}
 {{% tab "Linux" %}}
-<a href="https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/" target="_blank" rel="noopener">SD Card Formatter (Linux)</a>
+[SD Card Formatter](https://www.sdcard.org/downloads/sd-memory-card-formatter-for-linux/)
 {{% /tab %}}
 {{< / tabs >}}
 
@@ -50,7 +50,7 @@ This is the part where you should **double-check drive selection** so you don’
 
 ## 2. Download the RaspAP Prebuilt Image
 
-1. Download the correct operating system to be used for this process by navigating to the [Quick Start](https://raspap.com/quick-start/){target="_blank"} subsection of the RaspAP website. Click on the “custom OS image” link.
+1. Download the correct operating system to be used for this process by navigating to the [Quick Start](https://raspap.com/quick-start/) subsection of the RaspAP website. Click on the “custom OS image” link.
 ![RaspAP Website](../../../screenshots/RaspAP-Website.png)
 
 2. Download the zip file with the image that has the format ```raspap-trixie-arm64-lite-[version].img.zip```:
@@ -64,7 +64,7 @@ This is the part where you should **double-check drive selection** so you don’
 Now we’ll use **Raspberry Pi Imager** to write the RaspAP image to the microSD card and pre-configure some settings.
 
 
-1. Download the **Raspberry Pi Imager** from the [Software](https://www.raspberrypi.com/software/){target="_blank"} subsection of the Raspberry Pi official site.
+1. Download the **Raspberry Pi Imager** from the [Software](https://www.raspberrypi.com/software/) subsection of the Raspberry Pi official site.
 ![Raspberry-Pi-Imager-Download](../../../screenshots/Raspberry-Pi-Imager-Download.png)
 
 2. Once you have downloaded the Raspberry Pi Imager, make sure to take note of where the location of the download is in your files, this imager will be used to configure your raspberry pi.
